@@ -1,0 +1,41 @@
+/*.uploadPhone .am-image-picker-list {*/
+    /*padding: 0;*/
+    /*margin: 0;*/
+/*}*/
+/*!*.uploadPhone .am-image-picker-list .am-image-picker-upload-btn:before, .am-image-picker-list .am-image-picker-upload-btn:after {*!*/
+    /*!*background-color: #fff;*!*/
+/*!*}*!*/
+/*!*.uploadPhone .am-image-picker-list .am-flexbox {*!*/
+    /*!*margin: 0;*!*/
+/*!*}*!*/
+/*!*.uploadPhone .am-flexbox-item:not(:first-child) {*!*/
+    /*!*display: none;*!*/
+/*!*}*!*/
+/*.uploadPhone {*/
+    /*padding-left: 12px;*/
+/*}*/
+/*.uploadPhone .am-flexbox-item {*/
+    /*width: 100px!important;*/
+    /*margin-right: 12px!important;*/
+/*}*/
+/*.uploadPhone .am-image-picker-list .am-image-picker-upload-btn:before, .am-image-picker-list .am-image-picker-upload-btn:after {*/
+    /*background-color: transparent;*/
+/*}*/
+
+/*.uploadPhone .am-image-picker-list .am-image-picker-upload-btn {*/
+    /*border-color: transparent;*/
+    /*background-color: transparent;*/
+    /*background-image: url("./../images/add.png");*/
+    /*background-size: contain;*/
+    /*border-radius: 10px;*/
+/*}*/
+/*!*.uploadPhone .am-image-picker-item-remove {*!*/
+    /*!*display: none;*!*/
+/*!*}*!*/
+/*.uploadPhone .am-image-picker-list .am-image-picker-item .am-image-picker-item-remove {*/
+    /*background-image: url('./../images/delete.png');*/
+/*}*/
+/*.uploadPhone .am-image-picker-list .am-image-picker-item .am-image-picker-item-content {*/
+    /*background-position: center;*/
+    /*background-repeat: no-repeat;*/
+/*}*/
