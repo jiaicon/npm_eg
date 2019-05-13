@@ -3,7 +3,7 @@ const nodeExternals = require('webpack-node-externals');
 
 module.exports = {
     mode: 'production',
-    entry: './src/tab/tab.js',
+    entry: './src/uploadPhoto/uploadPhoto.js',
     output: {
         filename: 'index.js',
         path: path.resolve(__dirname, '../'),
